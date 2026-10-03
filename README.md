@@ -32,11 +32,6 @@ Git • GitHub • VS Code
 
 ## 📌 Featured Projects
 
-### 🛡️ SheShield
-
-Location-based personal safety platform with emergency
-alerts, live location sharing and safer-route features.
-
 ### 🧠 Mental Health Risk Detector
 
 React-based application for tracking mood, risk indicators
