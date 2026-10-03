@@ -62,17 +62,6 @@ solving problems, and learning modern technologies.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### Frontend
-HTML • CSS • JavaScript • React • Tailwind CSS
-
-### Backend
-Node.js • Express.js 
-
-### Database
-MongoDB • MySQL
-
-### Tools
-Git • GitHub • VS Code
 
 ## 📌 Featured Projects
 
