@@ -16,13 +16,13 @@ solving problems, and learning modern technologies.
 ## 🛠️ Tech Stack
 
 ### Languages
-C++ • Java • Python • JavaScript
+C++ • Python • JavaScript
 
 ### Frontend
 HTML • CSS • JavaScript • React • Tailwind CSS
 
 ### Backend
-Node.js • Express.js • REST APIs
+Node.js • Express.js 
 
 ### Database
 MongoDB • MySQL
