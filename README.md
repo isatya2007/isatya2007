@@ -49,5 +49,5 @@ software development skills.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/satya-prakash-kumar-0684533a9/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/satya-prakash-kumar-0684533a9/)
 - Email: iamsatyasingh2007@gmail.com
