@@ -33,9 +33,19 @@ Git • GitHub • VS Code
 ## 📌 Featured Projects
 
 ### 🧠 Mental Health Risk Detector
+🧠 A React-based application designed to track mood, identify potential risk indicators, and visualize emotional trends over time.
 
-React-based application for tracking mood, risk indicators
-and emotional trends.
+📊 Provides interactive insights through mood tracking, risk assessment, and emotion trend visualization to help users better understand their emotional patterns.
+
+💡 Includes self-care suggestions and an intuitive dashboard focused on creating a simple, supportive, and user-friendly experience.
+
+### 🤖AI-LMS (LEARNING MANAGEMENT SYSTEM)
+
+🎓 A modern Learning Management System designed to simplify online learning, course management, and student engagement.
+
+📚 Provides a centralized platform where students can access courses, learning resources, and educational content in an organized manner.
+
+👨‍🏫 Enables instructors to manage courses and deliver learning materials efficiently.
 
 ## 📊 GitHub Activity
 
