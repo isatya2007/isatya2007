@@ -13,12 +13,9 @@ solving problems, and learning modern technologies.
 - 🔨 Building full-stack and ML projects
 - 🧩 Practicing Data Structures & Algorithms
 
-## 🛠️ Tech Stack
-
 ### Languages
-## 🛠️ Tech Stack
 
-### 💻 Languages
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
